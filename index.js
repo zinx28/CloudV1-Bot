@@ -91,7 +91,7 @@ client.on("message", async message => {
 		} */
 })
 
-client.login('ADD YOUR OWN TOKEN!');
+client.login('PUT-DISCORD-TOKEN-HERE');
 
 /*
 
