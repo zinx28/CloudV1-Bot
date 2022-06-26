@@ -1,2 +1,8 @@
-# CloudV1-Bot
-Cloud V1 Account Creator Bot
+# CloudBot
+
+CloudBot V1
+<br>
+This is a account creator bot 
+<br>
+# Setup
+ill change this when i public it
