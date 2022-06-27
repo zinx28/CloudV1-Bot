@@ -1,5 +1,5 @@
 {
 	"prefix": "C!",
 	"log": "[log]",
-	"mon" : ""
+	"mon" : "PUT-MONGODB-HERE"
 }
